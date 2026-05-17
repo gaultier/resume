@@ -24,7 +24,7 @@ Experience
 
 **Senior Software Engineer** *Ory, Munich, Germany; 2025-present*
 
-I work on a suite of Go software powering authentication, authorization, complex permission models, at scale. Most of my work is open-source and I support a variety of users: open source community, big organizations like banks that self-host across 4 different databases, or use our multi-tenant, multi-region SaaS solution. I respond to community contributions, reports from security researchers, customer requests, etc. My main focusses are security (introduction of Landlock, memory limits for user scripts, discovery and fix of cross-requests data leaks), correctness (numerous data races fixes) and new features (device binding), with some optimizations sprinkled in.
+I work on a suite of Go software powering authentication, authorization, complex permission models, at scale, including SDKs for multiple languages and platforms. Most of my work is open-source and I support a variety of users: open source community, big organizations like banks that self-host across 4 different databases or use our multi-tenant, multi-region SaaS solution. I respond to community contributions, reports from security researchers, customer requests, etc. My main focusses are security (introduction of Landlock, memory limits for user scripts, discovery and fix of cross-requests data leaks), correctness (numerous data races fixes) and new features (device binding), with some performance optimizations sprinkled in.
 
 
 
