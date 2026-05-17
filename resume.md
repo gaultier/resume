@@ -57,23 +57,17 @@ I migrated a *COBOL* mainframe accounting application to a *C#* web application 
 Technical experience
 --------------------
 
-2025-Present: **SQLite**, **CockroachDB**
-    Several big production applications.
+2025-Present: **SQLite**, **CockroachDB**, **Redis**. Maintaining and expanding several big production applications.
 
-2013-Present
-:   **AWS, Docker, Git** 20+ production applications delivered.
+2013-Present: **AWS, Docker, Git**. 20+ production applications delivered.
 
-2018-Present
-:   **Kafka, Kubernetes, MySQL, PostgresSQL, MariaDB** 10+ production applications delivered.
+2018-Present: **Kafka, Kubernetes, MySQL, PostgresSQL, MariaDB**. 10+ production applications delivered.
 
-2018-Present
-:   **Go** 10+ performant production applications in Go delivered.
+2018-Present: **Go**. 10+ performant production applications in Go delivered.
 
-2011-Present
-:   **C, C++, CMake:** Delivered 10+ low level side projects and big, long-lived production applications in a wide range of OSes and platforms including mobile platforms.
+2011-Present: **C, C++, CMake**. Delivered 10+ low level side projects and big, long-lived production applications in a wide range of OSes and platforms including mobile platforms.
 
-2023-Present
-:   **Rust:** I initiated and led the effort to rewrite an insecure and crucial C++ codebase in Rust running on 10+ platforms including mobile platforms as well as mentoring teammates to learn Rust & C++.
+2023-Present: **Rust**. I initiated and led the effort to rewrite an insecure and crucial C++ codebase in Rust running on 10+ platforms including mobile platforms as well as mentoring teammates to learn Rust & C++.
 
 
 Solid knowledge of **x64 assembly**, **Terraform**, **Python**, **JVM**, **Dtrace**. I worked on small and big production applications with those languages, but I don't see myself working full-time with those.
