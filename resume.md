@@ -39,9 +39,15 @@
 Experience
 ----------
 
-**Senior Software Engineer** *Giesecke+Devrient, Munich, Germany; 2023-present*
+**Senior Software Engineer** *Ory, Munich, Germany; 2025-present*
 
-I work on one of the most promising [Central Bank Digital Currency (CBDC)](https://en.wikipedia.org/wiki/Central_bank_digital_currency) already used by several countries with real users and banks, with *Rust*, *C++*, *Go*, *Docker* and *Kubernetes*, with the highest levels of availability, correctness, security, and regulatory constraints.
+I work on a suite of Go software powering authentication, authorization, complex permission models, at scale. Most of my work is open-source and I support a variety of users: open source community, big organizations like banks that self-host across 4 different databases, or use our multi-tenant, multi-region SaaS solution. I respond to community contributions, reports from security researchers, customer requests, etc. My main focusses are security (introduction of Landlock, memory limits for user scripts, discovery and fix of cross-requests data leaks), correctness (numerous data races fixes) and new features (device binding), with some optimizations sprinkled in.
+
+
+
+**Senior Software Engineer** *Giesecke+Devrient, Munich, Germany; 2023-2025*
+
+I worked on one of the most promising [Central Bank Digital Currency (CBDC)](https://en.wikipedia.org/wiki/Central_bank_digital_currency) already used by several countries with real users and banks, with *Rust*, *C++*, *Go*, *Docker* and *Kubernetes*, with the highest levels of availability, correctness, security, and regulatory constraints.
 
 There, I initiated and led the effort to rewrite an insecure and crucial C++ codebase in Rust running on 10+ platforms including mobile platforms, as well as mentoring teammates to learn Rust & C++.
 
