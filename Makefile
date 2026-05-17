@@ -1,13 +1,7 @@
-STYLES_DIR=styles
-STYLE=chmduquesne
+
+Philippe_Gaultier_resume_en.pdf: resume.md
+	pandoc --pdf-engine=typst $^ -o $@
 
 .PHONY: clean
-
-Philippe_Gaultier_resume_en.pdf: resume.html
-	wkhtmltopdf --enable-local-file-access --title '' resume.html Philippe_Gaultier_resume_en.pdf
-
-resume.html: resume.md
-	cmark --unsafe $< > $@
-
 clean:
-	rm -f resume.html Philippe_Gaultier_resume_en.pdf
+	rm -f Philippe_Gaultier_resume_en.pdf

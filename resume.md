@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head> 
-    <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="main.css">
-</head>
-
-<body>
 
 ## Philippe Gaultier
 
@@ -13,17 +5,12 @@
 > I am a French-German Senior Software Engineer focusing on delivering *simple*, high quality software that's easy to understand, deploy, and troubleshoot.
 
 
-<hr>
-<section id="info">
-<div>
 84546 Egglkofen, Germany 
 
 +49 151 72465946
 
 [philigaultier@gmail.com](mailto:philigaultier@gmail.com)
-</div>
 
-<div>
 
 [Linkedin](https://www.linkedin.com/in/philippegaultier)
 
@@ -31,10 +18,6 @@
 
 [Blog](https://gaultier.github.io/blog/)
 
-</div>
-
-</section>
-<hr>
 
 Experience
 ----------
@@ -74,6 +57,8 @@ I migrated a *COBOL* mainframe accounting application to a *C#* web application 
 Technical experience
 --------------------
 
+2025-Present: **SQLite**, **CockroachDB**
+    Several big production applications.
 
 2013-Present
 :   **AWS, Docker, Git** 20+ production applications delivered.
@@ -90,12 +75,9 @@ Technical experience
 2023-Present
 :   **Rust:** I initiated and led the effort to rewrite an insecure and crucial C++ codebase in Rust running on 10+ platforms including mobile platforms as well as mentoring teammates to learn Rust & C++.
 
-2016-Present
-:   **Zig & Odin**: Enthusiast with several low-level open-source projects to my belt. I would love to work with these languages for a living!
 
 Solid knowledge of **x64 assembly**, **Terraform**, **Python**, **JVM**, **Dtrace**. I worked on small and big production applications with those languages, but I don't see myself working full-time with those.
 
-Miscellaneous knowledge of **Ruby**, **Lua**, **Redis**, **DynamoDB**, **Lisp**, **Cassandra**, **SQlite**. I worked briefly with those technologies at work or on open-source projects.
 
 Education
 ---------
@@ -120,6 +102,5 @@ Hobbies
 * Cinema
 * Gardening
 * Contributing to open-source projects
-
-</body>
-</html>
+* Beekeeping
+* Playing music

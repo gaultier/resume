@@ -1,8 +1,7 @@
 # Philippe's Gaultier resume
 
 ```
-brew install cmark wkhtmltopdf
-apt install cmark wkhtmltopdf
+brew install pandoc
 
 make
 ```
